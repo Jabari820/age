@@ -1,4 +1,6 @@
 #TODO: Enter your age as an int.  Using the input function.
+age = int(input("Enter your age: "))
+
 
 if age < 5:
     # TODO: print the following "You should play with toys."
